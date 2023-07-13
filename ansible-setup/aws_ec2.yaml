@@ -9,7 +9,7 @@ filters:
   # All dev and QA hosts
   tag:Environment:
     - Dev
-    - Stage
+    - Staging
     - Prod
   # Getting the details of running instances only
   instance-state-name: running
